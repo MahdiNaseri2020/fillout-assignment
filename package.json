@@ -1,0 +1,16 @@
+{
+  "name": "rest-endpoint",
+  "version": "1.0.0",
+  "description": "Fetching Data from Fillout-Endpoint and appling filter on it",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Naseri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3"
+  }
+}
